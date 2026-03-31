@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm luxtheep</h1>
-<h3 align="center">srilanka</h3>
+#warehouse invertory management system
+##Discription
+this is a java-based console application that manages warehouse invertory
+using java collection framework
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+##features
+1.add item
+2.remove item
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+##technology use
+1.java
+2.hashmap
+
+## how to run
+1.complie all files
+javac*.java
 
