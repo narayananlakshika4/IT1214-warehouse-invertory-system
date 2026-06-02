@@ -1,4 +1,5 @@
-// Class: Inventory
+//Manage the inventory of items in the warehouse, allowing user to add, remove, upadte, search and display items in the inventory.
+
 class Inventory {
     private HashMap<String, Item> items;
 

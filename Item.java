@@ -1,3 +1,6 @@
+// Manage variables using getter and setter methods, ensuring encapsulation and data integrity in the item class.
+
+
 import java.util.*;
 
 // Class: Item
