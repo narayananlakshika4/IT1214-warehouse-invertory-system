@@ -1,3 +1,4 @@
+//readme
 #warehouse invertory management system
 ##Discription
 this is a java-based console application that manages warehouse invertory

@@ -1,4 +1,4 @@
-// Class: Warehouse
+// this isClass: Warehouse
 public class Warehouse {
     private Inventory inventory;
     private Scanner scanner;
